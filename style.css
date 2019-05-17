@@ -18,10 +18,11 @@
 
   section {
       
-    width: 495px;
-    padding: 20px;
+    width: 498px;
+    padding: 5px;
     background: #ebebeb;
-    margin-bottom: 20px;
+    
+    height: 50px;
     
 }
 
@@ -45,16 +46,16 @@
       background: #ccc;
       padding-top: 30px;
       float: left;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
       color: #777777;
   }
   #third {
 
       background: #777777;
-      margin: 20px 20px 20px 20px;
+      margin: 20px 20px 20px 40px;
       padding-top: 10px;
       color: #ccc;
-      position: relative
+      overflow: auto;
   }
  
 
@@ -70,14 +71,11 @@
   }
   
     p {
-      width: 350px;
-      height: 60px;
       background: #ccc;
-      margin: 10px 30px 10px 10px;
+      margin: 10px 30px 10px 15px;
       padding-top: 10px;
-      padding-bottom: -10px;
+      font-size: 24px;
       color: #777777;
-      position: relative;
   }
   
   #forth {
@@ -87,13 +85,15 @@
       padding-top: 30px;
       float: right;
       color: #777777;
+      position: relative
   }
   #bottom{
       clear: both;
       background: #ccc;
       padding: 20px;
-      color: #333;
+      color: rgb(105, 51, 51) (20, 34, 34);
       color: #777777;
+      clear: both;
   }
   
   
